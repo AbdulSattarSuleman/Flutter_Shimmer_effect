@@ -9,7 +9,7 @@ A new Flutter project Belong To Shimmer Effect.
 Application ScreenShots
 
 
-<center> <img src="https://github.com/AbdulSattarSuleman/Flutter_Shimmer_effect/blob/master/ezgif.com-gif-maker.gif" width="200"> </center>
+<center> <img src="https://github.com/AbdulSattarSuleman/Flutter_Shimmer_effect/blob/master/ezgif.com-gif-maker.gif"> </center>
 
 
 
